@@ -1,0 +1,97 @@
+---
+title: "Tidal Volume Views"
+author: "Lewis Campbell"
+date: "14/02/2020"
+output: pdf_document
+bibliograhy: Tidalvolume.bib
+citation_package: natbib
+latex_engine: xelatex
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Background 
+
+Put introductory, preliminary background here [@meade_ventilation_2008]
+
+## Tidal Volume as a safety target 
+
+All the literature search you've already done 
+
+## The interaction with airway pressure 
+
+How does it matter that we use pressure control, not volume control? Is there literature on it (basic science mechanisms, or observational studies, even RCTs)? What do other people think so far (editorials / letters)? Doesn't eed to be written before we finish!
+
+# Rationale for the study 
+
+Study design (is this a case control, cohort, phase 2, etc?) and imagined clinical impact of the potential results should we in fact find them.
+
+## Acceptability 
+
+Survey design, why we think people will answer and why we think they will care about the results. 
+
+## Implementability 
+
+Why we think this is simple enough that a result will change or confirm practice. 
+
+# Methods
+ 
+## Survey construction 
+
+Describe the survey construction and review, and methods of administering. 
+
+## Patient data observation 
+
+Sampling method, fields, numbers planned or hoped for, frequency, dealing with multiple subjects.
+
+## Analysis plan 
+
+Power, assumptions, rationale for the table 2.
+
+# Results 
+
+## Survey results 
+
+Numbers, proportions, descriptive. 
+
+## Patient data results 
+
+Numbers of patients, diagnoses, gaps between sampling, numbers of days, background ICU usage at that time. 
+
+Ventilatory parameters, blood gas parameters, patient parameters (new ARDS / HAP / new organ failure etc). 
+
+## Correlation between opinion and ventilator settings 
+
+$R^2$
+
+# Discussion 
+
+Overall comments
+
+## Topic one 
+
+Really useful chat. 
+
+## Another topic 
+
+Hot takes. 
+
+## And so on 
+
+Further fire talk.
+
+Consultant of most recent ward round
+Patient’s HRN and date/time are in the separate file, age, sex, height, weight, day of admission, diagnosis, ideal tidal volume, measured tidal volume (range and rough average), pressure, Mode, Positive-end expiratory pressure, Respiratory rate (mandatory and assist and PSV), End Tidal CO2
+
+Store HRN and study ID link separately. Deidentified after that.
+
+Questionnaire of staff will include: 
+What are your targets? (prompt: pressure or volume, CO2)
+1. What volume targets are you aiming for?
+2. How are you measuring those targets? (how are you calculating weight, and are you worried about high VT breaths)
+3. Are you using end tidal CO2 to measure targets? (what is your target currently? And how do you respond if it's out of range?)
+4. What pressure targets are you aiming for? (are you aiming for any?)
+5. Are you aiming for other targets (if so, which, eg sats, synchrony, and how are you measuring dyssynchrony)?
