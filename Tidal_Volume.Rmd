@@ -23,7 +23,7 @@ All the literature search you've already done
 
 ## The interaction with airway pressure 
 
-How does it matter that we use pressure control, not volume control? Is there literature on it (basic science mechanisms, or observational studies, even RCTs)? What do other people think so far (editorials / letters)? Doesn't eed to be written before we finish!
+How does it matter that we use pressure control, not volume control? Is there literature on it (basic science mechanisms, or observational studies, even RCTs)? What do other people think so far (editorials / letters)? Doesn't need to be written before we finish!
 
 # Rationale for the study 
 
