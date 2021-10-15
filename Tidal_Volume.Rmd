@@ -59,6 +59,10 @@ Numbers, proportions, descriptive.
 
 ## Patient data results 
 
+PEEP: FiO2 scatter plot, expecting not to be a clear linear relationship. 
+
+Bland Altman style plot of x:patient mean minus group mean Vt, against y:patient variance in Vt.
+
 Numbers of patients, diagnoses, gaps between sampling, numbers of days, background ICU usage at that time. 
 
 Ventilatory parameters, blood gas parameters, patient parameters (new ARDS / HAP / new organ failure etc). 
