@@ -19,7 +19,7 @@ Put introductory, preliminary background here [@meade_ventilation_2008]
 
 ## Tidal Volume as a safety target 
 
-All the literature search you've already done 
+All the literature search you've already done . And then check it works.
 
 ## The interaction with airway pressure 
 
